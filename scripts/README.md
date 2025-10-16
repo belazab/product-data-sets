@@ -9,8 +9,9 @@ The goal was to transform messy product usage data into actionable insights on u
 ## 🧹 Steps
 1. Imported raw CSV data from Kaggle (dirty SaaS dataset)
 2. Identified and removed duplicates, blanks, and inconsistent date formats
-3. Standardized plan names, currency, and usage metrics
-4. Built pivot tables and trend charts for product engagement
+3. Created issue log to note items requiring further clarification and/or troubleshooting.
+4. Standardized plan names, currency, and usage metrics
+5. Built pivot tables and trend charts for product engagement
 
 ## 💡 Key Insights
 - PPPP of users showed inconsistent logins due to timezone mismatches
@@ -21,9 +22,9 @@ The goal was to transform messy product usage data into actionable insights on u
 Google Sheets, GitHub, CSV data
 
 ## 📁 Files
-- `raw_saas_usage.csv`: Original dataset
-- `cleaned_saas_usage.csv`: Clean version
-- `data_cleaning_summary.md`: Documentation of transformation steps
+- `data-sets/aws-saas-data`: Original dataset
+- `data-sets/aws-saas-data`: Clean version
+- `docs/data-cleanup-checklist`: Documentation of transformation steps
 
 ---
 ⭐ *Part of my data analytics portfolio.*
