@@ -1,0 +1,8 @@
+Checklist,Item,Status
+1,"Check for misspellings, typos, spelling variations, duplicate values within columns",
+2,Check for duplicate customer IDs,
+3,Check for consistent currency use across sheet,
+4,Inconsistent formatting within column values,
+5,Nulls (need to identify correct data value),
+6,Check for consistent Labeling,
+7,Data Validation - spot check values to confirm accuracy,
