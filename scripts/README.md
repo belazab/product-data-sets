@@ -9,7 +9,7 @@ The goal was to transform messy product usage data into actionable insights on u
 ## 🧹 Steps
 1. Imported raw CSV data from Kaggle (dirty SaaS dataset)
 2. Identified and removed duplicates, blanks, and inconsistent date formats
-3. Created issue log to note items requiring further clarification and/or troubleshooting.
+3. Created issue log to note items to identify and document data changes,as well as note items requiring further clarification/troubleshooting.
 4. Standardized plan names, currency, and usage metrics
 5. Built pivot tables and trend charts for product engagement
 
