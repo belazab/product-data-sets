@@ -16,7 +16,6 @@ The goal was to transform messy product usage data into actionable insights on u
 ## 💡 Key Insights
 - PPPP of users showed inconsistent logins due to timezone mismatches
 - PPPP of enterprise accounts had incomplete billing data
-- Data cleaning improved reporting accuracy by PPPP
 
 ## 🛠️ Tools Used
 Google Sheets, GitHub, CSV data
