@@ -1,13 +1,11 @@
 # AWS Product Usage — Data Visualization Project
 
-This mini-project turns your **Amazon AWS product data** into a clean, repeatable visualization workflow you can run locally or in GitHub Codespaces.
-
 ## What’s inside
 - `aws_product_viz.ipynb` – an interactive notebook with step‑by‑step EDA & charts
 - `make_charts.py` – a runnable script that saves PNG charts to `figures/`
 - `requirements.txt` – lightweight deps (pandas + matplotlib + numpy + jupyter)
 - `figures/` – images output folder (created by the script)
-- `data-sets/` – **put your CSVs here** (or symlink to your existing `product-data-sets/data-sets` folder)
+- `data-sets/` – CSVs
 
 ## Expected columns (the code is resilient, but these help unlock all charts)
 - `date` – daily or monthly timestamp
@@ -15,8 +13,6 @@ This mini-project turns your **Amazon AWS product data** into a clean, repeatabl
 - `account_id` or `user_id` – (optional) enables cohort/retention analysis
 - `region` – (optional) for geo drilldowns
 - Usage/value columns like: `requests`, `active_users`, `revenue`, `cost`, `duration`, `gb`, `errors`
-
-> If your CSVs use different names, the notebook shows how to map them in one place.
 
 ## Quickstart (Local)
 ```bash
